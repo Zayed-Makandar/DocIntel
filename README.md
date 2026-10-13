@@ -108,4 +108,4 @@ I designed and built the service end to end: the FastAPI architecture, the dual-
 
 ## Contact
 
-**Zayed Makandar** | [zayedmakandar03@gmail.com](mailto:zayedmakandar03@gmail.com) | [LinkedIn](https://linkedin.com/in/your-handle)
+**Zayed Makandar** | [zayedmakandar03@gmail.com](mailto:zayedmakandar03@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zayed-makandar-642536422/)
